@@ -1,9 +1,8 @@
 .env
 
-.key_yahoo.json
-/.key_yahoo.json
-
 .__pycache__
 __pycache__
 
 .venv
+
+key_yahoo.json
